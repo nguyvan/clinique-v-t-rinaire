@@ -1,1 +1,1 @@
-# clinique-v-t-rinaire
+# clinique-vétérinaire
